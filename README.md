@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub Repository](https://github.com/aviralsharma07/stats-preview-card-component)
-- Live Site URL: [Results Summary Component](https://stats-preview-card-component-avi.netlify.app/)
+- Live Site URL: [Stats Preview Card Component](https://stats-preview-card-component-avi.netlify.app/)
 
 ### Built with
 
