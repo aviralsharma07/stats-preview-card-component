@@ -23,9 +23,9 @@ Users should be able to:
 
 ### Screenshot
 
-<img src="./screenshots/desktop-result.png" alt="Alt Text" width="650" height="350">
+<img src="./screenshots/desktop-screenshot.png" alt="Alt Text" width="650" height="350">
 &nbsp;
-<img src="./screenshots/mobile-result.png" alt="Alt Text" width="170" height="350">
+<img src="./screenshots/mobile-screenshot.png" alt="Alt Text" width="170" height="350">
 
 ### Links
 
